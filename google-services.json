@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52167873511",
+    "project_id": "gbak-b8959",
+    "storage_bucket": "gbak-b8959.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52167873511:android:633407f3a4710a5038a342",
+        "android_client_info": {
+          "package_name": "com.gbkmining.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_UjxHSkk_gcD5XvNDqWiDxkC5YSWKB_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
